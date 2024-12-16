@@ -6,7 +6,7 @@
 
 This project is a modified version of DoublSB's D'Dialogue System ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master)), a simple dialogue system that uses C# Code to play out dialogues. These modifications help to make the system more usable for broader use, including 3D games and re-triggerable dialogues. 
 
-The original system was specialized for single-shot visual novels and 2D-based dialogue, which felt restrictive for me in using it for other uses (even in a visual novel context). I used an older version of this modified system on an old game project, but it has since been scrapped. I am putting in my changes here in this repo for anyone to see or use for thier own purposes. I have tested the code on Unity 6 (6000.0.30f) and in the URP pipeline, but it should be able to work on older unity versions or other pipelines just fine (other than maybe some modifications if required).
+The original system was specialized for single-shot visual novels and 2D-based dialogue, which felt restrictive for me in using it for other uses (even in a visual novel context). I used an older version of this modified system on an old game project, but it has since been scrapped. I am putting in my changes here in this repo for anyone to see or use for thier own purposes under MIT license. I have tested the code on Unity 6 (6000.0.30f) and in the URP pipeline, but it should be able to work on older unity versions or other pipelines just fine (other than maybe some modifications if required).
 
 Do note that I haven't draft out the documentation yet, I will draft out one in the future. You can still refer to the old documentation (it is in the repo as well), as most of its commands and original functionalities are still there.
 
