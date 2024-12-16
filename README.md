@@ -58,7 +58,9 @@ All commands start with /(Command Name)/. An example of using a command is
 dialogTexts.Add(new DialogData("And here we go, /sound/the haha sound!.", "test"
 ```
 List of possible commands (You can also refer to the documentation as well, just no /emote/ command):
+<br>
 Screenshots from the original repo about the commands (as I don't have time to write through all this at the moment, will update this later on, so treat the screenshots as temporary for now)
+<br>
 ![image](https://github.com/user-attachments/assets/d9e1d5c0-3036-4fd8-ac36-42f5dd5062c2)
 ![image](https://github.com/user-attachments/assets/4b553556-62e2-4694-800b-dc40b3a46a8c)
 <br>
