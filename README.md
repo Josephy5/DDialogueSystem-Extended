@@ -79,4 +79,5 @@ for more information, you can refer to the old documentation or the info in the 
 6. Unity DOTS intergration
 
 ## Credits/Assets used
-D'Dialogue System by DoublSB ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master)). Licensed under MIT license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details. (The base code was originally from DoublSB's D'Dialogue System repo, but I have since made modifications to the code to make it more suitable for general use and for my own use, and to also fix some bugs that was inherent within the original code when I applied the new changes to it)
+D'Dialogue System by DoublSB ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master)). Licensed under MIT license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details. 
+<br>(The base code was originally from DoublSB's D'Dialogue System repo, but I have since made modifications to the code to make it more suitable for general use and for my own use, and to also fix some bugs that was inherent within the original code when I applied the new changes to it)
