@@ -4,7 +4,7 @@
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
 
-This project is a modified version of DoublSB's D'Dialogue System ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master)), a simple dialogue system that uses C# Code to play out dialogues. These modifications help to make the system more usable for broader use, including 3D games and re-triggerable dialogues. 
+This project is a modified version of DoublSB's D'Dialogue System ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master)), a simple dialogue system that uses C# Code to play out dialogues. These modifications help to make the system more usable for a much more general use and for my own use. This modification allows for re-triggerable dialogues and for use in non 2D visual novel games. 
 
 The original system was specialized for single-shot visual novels and 2D-based dialogue, which felt restrictive for me in using it for other uses (even in a visual novel context). I used an older version of this modified system on an old game project, but it has since been scrapped. I am putting in my changes here in this repo for anyone to see or use for thier own purposes under MIT license. I have tested the code on Unity 6 (6000.0.30f) and in the URP pipeline, but it should be able to work on older unity versions or other pipelines just fine (other than maybe some modifications if required).
 
@@ -79,4 +79,4 @@ for more information, you can refer to the old documentation or the info in the 
 6. Unity DOTS intergration
 
 ## Credits/Assets used
-The base code of the dialogue system is from DoublSB's D'Dialogue System ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master))
+D'Dialogue System by DoublSB ([Original GitHub Repository](https://github.com/DoublSB/UnityDialogAsset/tree/master)). Licensed under MIT license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details. (The base code was originally from DoublSB's D'Dialogue System repo, but I have since made modifications to the code to make it more suitable for general use and for my own use, and to also fix some bugs that was inherent within the original code when I applied the new changes to it)
